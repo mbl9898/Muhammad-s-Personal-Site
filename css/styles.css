@@ -1,19 +1,43 @@
-  body{
-  background-color: #edffea;
+body {
+  background-color: #d1fff6;
 }
 
-  hr{
-
+hr {
   border-style: dotted none none none;
   border-color: grey;
   border-width: 10px;
   height: 1px;
   width: 10%;
 }
-  h1{
-    color: #66bfbf;
-  }
+h1 {
+  color: #66bfbf;
+}
 
-  h3{
-    color: #66bfbf;
-  }
+h3 {
+  color: #66bfbf;
+}
+
+p {
+  color: rgb(13, 133, 149);
+}
+
+.profilePic {
+  height: 10rem;
+  border-radius: 5rem;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(82, 73, 0);
+}
+
+li {
+  color: rgb(59, 139, 113);
+}
+
+th {
+  color: rgb(59, 139, 113);
+}
+td {
+  color: rgb(59, 139, 113);
+}
